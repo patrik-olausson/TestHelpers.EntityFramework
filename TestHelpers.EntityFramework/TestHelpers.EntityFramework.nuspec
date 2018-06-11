@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <tags>TestHelpers TestHelpers.EntityFramework</tags>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <language>en-US</language>
+    <licenseUrl>https://github.com/patrik-olausson/TestHelpers.EntityFramework/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/patrik-olausson/TestHelpers.EntityFramework</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
